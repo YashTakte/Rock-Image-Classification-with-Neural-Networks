@@ -2,6 +2,11 @@
 
 This project aims to classify rock images into three categories: I, M, and S, based on their features. Various techniques, including dimensionality reduction, clustering, and deep learning, are used to analyze and classify the images.
 
+## **Dataset**
+
+The rock image dataset used in this project is available at the following link:
+https://osf.io/d6b9y/
+
 ## **Key Features:**
 
 - **Dimensionality Reduction**:
